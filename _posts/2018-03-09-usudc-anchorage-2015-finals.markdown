@@ -1,0 +1,48 @@
+---
+layout: post
+title:  USUDC Anchorage 2015 Finals
+date:   2018-03-09 15:01:35 +0300
+image:  '/images/10.jpg'
+tags:   OpeningGovernment
+featured: true
+---
+THW, as the US government, grant amnesty to all undocumented immigrants living in the United States on the sole condition that they have not been convicted of a violent criminal offense.
+
+![Bike on the street]({{site.baseurl}}/images/08.jpg)
+*Memories from childhood*
+
+Madam Speaker, this is a debate about the invisible citizens of this republic. People who live amongst us, people who contribute to the rich diversity and the prosperity of the United States, and for all intents and purposes call themselves Americans, but people who in the status quo are relegated permanently to live in the shadows. Shadows of disenfranchisement, shadows of abuse, shadows of neglect. We say in this debate that it’s time that we bring those 10 million people for the first time to the light.
+
+Two part very simple model. First, we’re going to grant unconditional amnesty in the way the Reagan administration did provided that they didn’t break any laws i.e. they didn’t have any convictions. Two, to the extent that we are going to re-appropriate those funds, we think border protection by and large has been shown to be ineffective, so we think the kinds of things that are going to alleviate situations overseas is intensify trade with Mexico for instance, divert funds away from the drug war, we think that’s what’s going to deal with the immigration situation overseas. To that extent I’m going to bring you three arguments.
+
+First of all, in principle, immigration ought to be as free as possible. Two things to say.
+
+First of all, we prioritize the rights of individuals to seek immigration and to enjoy the benefits of immigration over the right of any state to impose controls. First, because the derivation and the source of the state’s rights are based on morally arbitrary grounds. That is to say that goodness  isn’t spread into particular geographic locations, that individuals fully endowed with human rights are born into many disparate situations. Compare that to the states where it is constructed to a series of legal conventions that were done mostly through the construct of western nations. The source of the rights forces us to side with one side. But beyond that, we say there are interests that are incommensurable and that we have reason to prefer that of individuals. That’s why we recognize things like refugee status. That in the vast majority of instances we’re going to contend, that no tradeoff exists between states’ interests and granting these people amnesty, that is to say that the United States, fairly wealthy in terms of its infrastructure and in terms of its natural resources, it’s estimated can take up to two hundred million people in the next decade without much strain. That is to say that ten million to which we are granting these benefits won’t be under strain, but even if it does, we still prefer that of the citizens, that’s to say that the United States has available to its surplus alternatives that its citizens don’t. That is to say that the United States can slightly worsen services in certain areas in exchange for giving people a fairer shot at life. We think that in the vast majority of instances this amounts to them granting refugee status.
+
+But second of all, why in particular does the United States owe this obligation to the ten million to which this debate pertains. We think citizenship, an arbitrary concept, grants and gains moral significance under two conditions. First is on the basis of reciprocity, where citizens contributing to the welfare of the state are granted recognition. That’s precisely what these people are doing when they work for us when they abide by our laws. But beyond that, we do it when people identify as Americans and see themselves intrinsically as a part of society. We see that and the greatest symptom for that is that these people stuck by our laws and continue to call America home. In principle this is just.
+
+Second, this benefits immigrants’ lives. Five Reasons why this is the case.
+
+First, it takes away the constant fear of persecution, the very thing that we grant refugee status in exchange for. That is to say not only individuals who can’t go to Walmart, who can’t go to their local schools without fear of their fake identity being discovered. Those people’s fears go away. But so does the fear of communities who house them, that is to say that local churches who look after those people and families who take in other immigrants who are usually of the same ethnic background.
+
+Two, they get better wages under our side. That is to say that for the first time you can join the formal economy, you’re no longer exploited by people who threaten to rat you out if you dare ask for higher wages. You’ll get that under our side.
+
+Third, you get legal rights and access to courts in a way that doesn’t exist at the moment. That’s to say when somebody runs you off in a car on the road, something as mundane as that, you have very few means of recourse, you often hide from hospitals in order to prevent yourself being caught, we think that’s disgusting.
+
+Fourth, you get access to benefits that other people in similar circumstances would. That if you are unemployed or going through hard times, you as a citizen that has been abiding by its laws and contributing to its economic prosperity get those benefits.
+
+Finally, you don’t get the stigmatization of all immigrants under our side. That is to say even people who are granted amnesty at some point, or citizenship at some point, that people can’t say that you, because you are Mexican, may be an illegal immigrant and treat you accordingly. We think that that decreases the persecution of all ethnic minorities including the immigrants themselves.
+
+Third Argument. On the United States, what does this do. Two things to talk about.
+
+First of all, it benefits the U.S. economy. Currently, millions upon millions of dollars are spent on things that have been shown time and time again to be ineffective. That is to say prosecuting these people, chasing them up, and deporting them.
+
+POI: When you encourage more illegal immigration by establishing this precedent, won’t that lead to more stigmatization in the future?
+
+So, that was the part in the model where I said it hasn’t been shown that incentives are what is at play. Pull factors are than less significant than the push factors. That’s evident in the fact that they don’t come here for a terrible life when they face the fear of persecution, they come here because the conditions of the drug war are awful. That’s what we would rectify instead.
+
+So it reduces the cost of prosecution and deportation which has been harmful. It allows them to join the formal economy, that means the government can plan in a way that it doesn’t currently about where to divert its resources, knowing where most of the people are going to work.
+
+It means finally, they’re able to get credit from banks, and do things like start their own businesses involving local communities and being integrated fully. That economic autonomy benefits the state as a whole. But second of all, it helps the society and the way that the societal cohesion works. First of all, this massively decreases crime. That is to say, even the illegal immigrants who are forced into criminal lifecycles are done so because they have no means of recourse in legal courts, because they have lower wages than everybody else, and because they can’t join the formal economy. Recognition and rights solves that problem. Finally, it reduces distrust of immigration in particular. I’ve discussed that and why it’s beneficial for cohesion.
+
+We’re not talking about illegal immigrants, we’re talking about invisible citizens who now need to be recognized. Proud to propose.

@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Mateo
+title: Just Seo You Know
 description:
 logo: # You can add own logo. For example '/images/logo.png'.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,11 +11,11 @@ url: "https://mateo-jekyll.netlify.com/" # the base hostname & protocol for your
 #-------------------------------
 # Author Settings
 author:
-  name: Cameron Wilson
+  name: Anna Sun
   image: '/images/15.jpg'
   avatar: '/images/01.jpg'
-  job: Designer
-  bio: I like being at the center of events, being free and enjoying every moment.
+  job: Fangirl
+  bio: I like making silly websites just for fun. 
 
 
 #-------------------------------

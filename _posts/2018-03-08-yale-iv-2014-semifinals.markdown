@@ -1,0 +1,37 @@
+---
+layout: post
+title:  Yale IV 2014 Semifinals
+date:   2018-03-08 15:01:35 +0300
+image:  '/images/13.jpg'
+tags:   ClosingOpposition
+---
+TH supports the use of forced population transfers that create separate, ethnically homogenous states as a solution to prolonged ethnic conflict.
+
+Mr. Speaker, there’s nothing shiny about our extension, but it will be real. We’re going to be the first team in this debate to show you what ethnic conflict really is and what it looks like in these countries. We’re going to be the first team to give you a realistic conception of what these states look like in the long term and we’re going to do it using examples, and that will be enough. Because it is not only the opposition side that is weighing against the proposition, but it is the force of reality itself.
+I’m going to structure my speech around extension. All rebuttal will be integrated throughout.
+
+![Bike on the street]({{site.baseurl}}/images/11.jpg)
+*Memories from childhood*
+
+First of all, I’m going to explain that the nature of ethnic conflict, precludes any iteration of this model. Opening opposition does a fantastic job of defeating this non-model of perpetual war, right. You can credit them for that. What you’re going to credit us for though, is in any iteration of their model, the best possible version, we still win under our side. Because all teams in this debate misunderstood what ethnic conflict is, which is that they’re not ethnic at all. That in the vast majority of instances, it is the politicization of ascriptive characteristics that allows it to function. That these are political opportunists taking advantage of unstable regions using ethnicity as their name. Why do we know that’s true? Because in Kyrgyzstan, you have multiple groups who claim to speak for the Kurds, if it was nationality and nationality only, they would be working together. You see it in India, an example that Kyle brings up, that when you introduce semi-autonomous regions that are relatively homogenous, they start picking on other ascriptive characteristics like class upon which to divide their society. These are political and not only ethnic conflicts. Don’t get confused by the name.
+
+### Three implications of that into this debate.
+
+One, it means that you cannot, ever, get clear side delineation. When there are multiple parties in the Democratic Republic of Congo claiming to represent certain racial groups. When they’re scattered in various alliances, working opportunistically with different groups at different times, the next speech for their side needs to answer for the first time how and along what lines they’re going to divide that country.
+
+Second implication, it increases the scope of war. Veenu touches upon this and identifies it correctly, that not all ethnic conflicts are all encompassing.
+The reason and the best explanation of why the identification is true is our extension, that these are political wars not ethnic ones. That’s why you don’t just kill all people who belong to a certain nation, but you target certain elites and you target certain groups.
+
+That means two things.
+One, that there is a particular innocence about these people. That you take away their ability to preference the security of their family or staying in certain social networks, and force them to identify with their ethnicity over all of those parts of their life, we think that’s illegitimate.
+The second thing is that it increases the scope of conflict, brandish everybody as a certain ethnic class, it forces them to engage in that war.
+
+The third thing that we’ll say that people misunderstand about the nature of conflict is that the alternative of power sharing is much more realistic than people might imagine. Two reasons. First of all, because in many of these countries the force of democratization forces the hand of the elite. So when the Ennahda Party* forms a fairly successful power sharing agreement in the Tunisia is because there was internal pressure to do so. Second reason is because international oversight is often helpful. So we’re going to posit, there would’ve been a worse outcome for all South Africans, if instead of forming a power sharing agreement facilitated by the West’s pressure, if they stood up instead. Closing government have some response to this. They have two questions. One: Are you going to use the military? No, because we have shown in the vast majority of cases it is more probable that the force of democratization and global pressure will work. The second is more a good sport type of question. Who will you talk to? Presumably, we’re going to talk to the same people that you’ll allow to set up governments. We’re happy to speak to them.
+
+Second half of the extension. What does this do for the long-term stability of these states. I’m going to answer all of the points covered in their extension. First, just think, throwaway comment that closing government might develop further about why these states are arbitrary in the first instance? It doesn’t matter if revising that arbitrariness leads to worse outcomes. This is how you should view this issue.
+
+Two things to say on the long-term stability. First of all, war is worse when it is between states. Two reasons why this is the case. One, because you can legitimately arm your groups rather than use illegal arms and black-market things which can often be siphoned off. Two, because you can form local alliances that formal. So, Iran can fund your military without impunity and fund the Shias to conduct bombing runs. This is in direct refutation to all the stuff that OG brought you about the proximity of profit because presumably you still share the border and all of those things, but war is worse when it’s between states.
+
+The second part of this point is let’s concede all of that. This was a discussion in opening half about whether war will become worse. Let’s concede you get peace. Why is a state based on ethnicity intrinsically harmful in the long run? Three reasons. First of all, you get political exclusion. This is the fate of Arab Israelis that are systematically denied access to that government because it was founded on a particular conception on what it means to be an Israeli. It means, second, that there is a constant fight to determine what a particular nationality means rather that furthering the effectiveness of the state. Third, it means that you define your country in opposition to something else. So, what it means for North Korea to end of every line with a line by line comparison to the devils in South Korea means that they can never move on from that particular historical narrative. The last thing that we’re going to say in the long run is that it creates dependant states. So, once an independent Shia region becomes a state, it becomes reliant on the state of Iran. If the Sunnis create their own group, it becomes dependant on the support of the Saudis. What that means is, all of their extension about self determination goes of the window, because, one, you can’t self-define when ethnic descriptions and the definition of a group systematically excludes some people and, second, when it creates dependence. On all facets of this debate we’re winning already. We’re proud to oppose.
+
+* The Ennahda Party is a moderate Islamic party in Tunisia.
